@@ -1,52 +1,59 @@
-<!-- NEON 3D HEADER -->
+<!-- GLITCH NEON HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=ScoreSphere&fontColor=00FFE0&fontSize=72&desc=Dynamic%20Grades%20Analytics%20Dashboard&descAlign=50&descAlignY=70&color=0d1117" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=320&text=ScoreSphere&fontColor=00FFEA&fontSize=80&animation=twinkling&stroke=00FFEA&strokeWidth=2" />
 </p>
 
+<!-- GLITCH TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00FFE0&center=true&vCenter=true&width=700&lines=Dark+Neon+Grades+Analytics+Dashboard;Interactive+Student+Performance+Visualization;Built+Using+Java;Turning+Data+Into+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2200&pause=800&color=00FFEA&center=true&vCenter=true&width=800&lines=⚡+Next‑Gen+Grades+Analytics+Dashboard;📊+Visualize+•+Analyze+•+Improve;🚀+Dark+Neon+Academic+Insights;💡+Built+in+Java+with+Precision" />
+</p>
+
+<!-- ANIMATED NEON DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284068-3e7c3b3f-2e1a-4dd7-9c7f-1b7a7c4c6c1e.gif" width="90%" />
 </p>
 
 ---
 
-## 🎓 About ScoreSphere
+## 🧠 About **ScoreSphere**
 
-🚀 **ScoreSphere** is a **dark-themed, neon-styled grades analytics dashboard** designed to simplify  
-the way academic performance data is viewed, analyzed, and interpreted.
+🎓 **ScoreSphere** is a **next‑generation, dark‑neon themed grades analytics dashboard**  
+built to modernize how academic performance is tracked and understood.
 
-It helps **students, teachers, and academic institutions** transform raw grades into  
-📊 **meaningful visual insights**, 📈 **performance trends**, and 🎯 **actionable decisions**.
+Instead of static tables and manual calculations, ScoreSphere provides  
+📊 **interactive dashboards**, 📈 **trend analysis**, and 🎯 **actionable insights**  
+that help **students, educators, and institutions** make smarter academic decisions.
 
-ScoreSphere focuses on **clarity, usability, and performance**, combining clean UI with strong backend logic.
+The project emphasizes **clean architecture**, **performance**, and **visual clarity**.
 
 ---
 
-## ✨ Key Highlights
+## ✨ Why ScoreSphere?
 
-✔ Modern **dark + neon UI design**  
-✔ Easy-to-understand charts & dashboards  
-✔ Helps identify strengths and weak areas  
-✔ Reduces manual analysis effort  
-✔ Clean and modular Java codebase  
+✔ Eliminates boring spreadsheets  
+✔ Converts grades into meaningful visuals  
+✔ Helps identify improvement areas quickly  
+✔ Designed with a futuristic dark‑neon UI  
+✔ Ideal for academic & portfolio projects  
 
 ---
 
 ## ⚡ Core Features
 
-🟢 📊 **Interactive Dashboards**  
-Visual charts for grades distribution and comparisons.
+### 📊 Interactive Analytics
+Dynamic charts that clearly represent grades, averages, and comparisons.
 
-🟢 📈 **Performance Trend Analysis**  
-Track student progress over time.
+### 📈 Performance Tracking
+Analyze progress over time to identify trends and consistency.
 
-🟢 🎯 **Subject-wise Analytics**  
-Analyze individual subject performance.
+### 🎯 Subject‑Wise Insights
+Understand strengths and weaknesses subject by subject.
 
-🟢 🧑‍🏫 **User-Friendly Interface**  
-Simple design suitable for all users.
+### 🧑‍🏫 Clean & Simple UI
+Minimal learning curve with maximum usability.
 
-🟢 🚀 **Scalable Architecture**  
-Easy to extend and maintain.
+### 🚀 Scalable Design
+Easy to extend with databases, APIs, or web dashboards.
 
 ---
 
@@ -56,11 +63,11 @@ Easy to extend and maintain.
   <img src="https://skillicons.dev/icons?i=java,github,vscode&theme=dark" />
 </p>
 
-| Technology | Description |
-|-----------|-------------|
-| Java | Core backend & logic |
-| Java UI | Dashboard & visualization |
-| Git & GitHub | Version control |
+| Technology | Usage |
+|-----------|------|
+| **Java** | Core logic & analytics |
+| **Java UI** | Dashboard & charts |
+| **Git & GitHub** | Version control |
 
 ---
 
@@ -70,21 +77,19 @@ Easy to extend and maintain.
   <img src="https://user-images.githubusercontent.com/placeholder/neon-dashboard.gif" width="85%" />
 </p>
 
-> 📌 Replace this image/GIF with your real dashboard screenshots.
+> 📌 Replace this with real screenshots/GIFs for maximum impact.
 
 ---
 
 ## 🛠️ Installation & Setup
 
-### 📥 Clone the Repository
-
+### 📥 Clone Repository
 ```bash
 git clone https://github.com/gitKeshav11/ScoreSphere-A-dynamic-dashboard-for-grades-analytics.git
 cd ScoreSphere-A-dynamic-dashboard-for-grades-analytics
 ```
 
 ### ▶ Compile & Run
-
 ```bash
 javac -d bin src/*.java
 java -cp bin Main
@@ -92,40 +97,40 @@ java -cp bin Main
 
 ---
 
-## 📌 Usage Guide
+## 📌 How to Use
 
-1. Launch the application  
-2. Load or enter student grades  
-3. View analytics via dashboards  
-4. Interpret trends and performance  
+1. Start the application  
+2. Enter or load student grades  
+3. Explore dashboards & charts  
+4. Analyze trends and performance  
 
 ---
 
 ## 🎯 Use Cases
 
-✔ Academic performance tracking  
-✔ Result analysis & reporting  
-✔ Identifying improvement areas  
-✔ Data-driven academic planning  
+✔ Student performance evaluation  
+✔ Academic result analysis  
+✔ Identifying weak & strong areas  
+✔ Data‑driven academic planning  
 
 ---
 
 ## 🚀 Future Enhancements
 
-🔮 Web-based dashboard version  
-📤 Export reports (PDF / Excel)  
-📡 Database & API integration  
-🤖 Predictive analytics using ML  
+🔮 Web‑based version  
+📤 PDF / Excel report export  
+📡 Database & REST API integration  
+🤖 AI‑based performance prediction  
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are always welcome!  
+Want to improve **ScoreSphere**?
 
-1. ⭐ Star this repository  
+1. ⭐ Star the repository  
 2. 🍴 Fork the project  
-3. 🛠️ Create a feature branch  
+3. 🛠️ Add enhancements  
 4. 📩 Submit a Pull Request  
 
 ---
@@ -137,6 +142,7 @@ All rights are reserved by the author.
 
 ---
 
+<!-- NEON WAVE FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=00FFE0&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=00FFEA&section=footer" />
 </p>
