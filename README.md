@@ -2,14 +2,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=ScoreSphere&fontColor=00FFE0&fontSize=70&desc=Dynamic%20Grades%20Analytics%20Dashboard&descAlign=50&descAlignY=70&color=0d1117" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00FFE0&center=true&vCenter=true&width=650&lines=Dark+Neon+Grades+Analytics;Interactive+Student+Performance+Dashboard;Built+With+Java;Data+Meets+Design" />
 </p>
 
 ---
-
-
 ## 🧠 About **ScoreSphere**
 
 🎓 **ScoreSphere** is a **next‑generation, dark‑neon themed grades analytics dashboard**  
