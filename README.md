@@ -1,19 +1,17 @@
 <!-- GLITCH NEON HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=320&text=ScoreSphere&fontColor=00FFEA&fontSize=80&animation=twinkling&stroke=00FFEA&strokeWidth=2" />
+<!-- NEON 3D HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=ScoreSphere&fontColor=00FFE0&fontSize=70&desc=Dynamic%20Grades%20Analytics%20Dashboard&descAlign=50&descAlignY=70&color=0d1117" />
 </p>
 
-<!-- GLITCH TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2200&pause=800&color=00FFEA&center=true&vCenter=true&width=800&lines=⚡+Next‑Gen+Grades+Analytics+Dashboard;📊+Visualize+•+Analyze+•+Improve;🚀+Dark+Neon+Academic+Insights;💡+Built+in+Java+with+Precision" />
-</p>
-
-<!-- ANIMATED NEON DIVIDER -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284068-3e7c3b3f-2e1a-4dd7-9c7f-1b7a7c4c6c1e.gif" width="90%" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00FFE0&center=true&vCenter=true&width=650&lines=Dark+Neon+Grades+Analytics;Interactive+Student+Performance+Dashboard;Built+With+Java;Data+Meets+Design" />
 </p>
 
 ---
+
 
 ## 🧠 About **ScoreSphere**
 
