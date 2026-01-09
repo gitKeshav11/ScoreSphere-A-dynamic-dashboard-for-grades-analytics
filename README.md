@@ -147,3 +147,4 @@ All rights are reserved by the author.
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=00FFEA&section=footer" />
 </p>
 .
+.
