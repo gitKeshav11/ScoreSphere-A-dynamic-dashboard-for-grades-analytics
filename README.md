@@ -1,7 +1,4 @@
-<!-- GLITCH NEON HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=320&text=ScoreSphere&fontColor=00FFEA&fontSize=80&animation=twinkling&stroke=00FFEA&strokeWidth=2" />
-<!-- NEON 3D HEADER -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=ScoreSphere&fontColor=00FFE0&fontSize=70&desc=Dynamic%20Grades%20Analytics%20Dashboard&descAlign=50&descAlignY=70&color=0d1117" />
 </p>
