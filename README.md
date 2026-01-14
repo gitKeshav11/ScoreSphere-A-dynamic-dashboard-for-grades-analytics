@@ -137,4 +137,4 @@ All rights are reserved by the author.
 <!-- NEON WAVE FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=00FFEA&section=footer" />
-</p>...........................
+</p>
